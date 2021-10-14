@@ -1,2 +1,12 @@
-# RysteQ
- 
+## Hello !
+
+I am RysteQ, a hobbyist programmer that enjoys linux a lot and I currently working on getting a degree in Applied Informatics.
+
+<br>
+
+The languages I enjoy the most are
+
+- C
+- Assembly
+- C#
+- Python 3 and Python 2
