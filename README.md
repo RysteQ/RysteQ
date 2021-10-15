@@ -7,6 +7,6 @@ I am **RysteQ**, a hobbyist programmer that enjoys linux a lot and I am currentl
 The languages I enjoy the most are
 
 - C
-- Assembly
+- Java
 - C#
 - Python 3 and Python 2
