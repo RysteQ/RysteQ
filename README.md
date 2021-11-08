@@ -10,4 +10,4 @@ The languages I enjoy the most are
 - C
 - Java
 - C#
-- Python 3 / 2
+- Python 3 and Python 2
