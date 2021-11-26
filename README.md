@@ -1,6 +1,6 @@
 ## Hello !
 
-I am **RysteQ**, a hobbyist programmer that enjoys linux a lot and I am currently studying to get a degree in **Applied Informatics** to hopefully one day become a professor in a university !
+I am **RysteQ**, a hobbyist programmer that enjoys linux just a bit *too much* !
 
 <br>
 
