@@ -4,7 +4,7 @@ I am **RysteQ**, a hobbyist programmer that enjoys linux just a bit *too much* !
 
 <br>
 
-The languages I enjoy the most are
+The programming languages I enjoy the most are
 
 - x86 Assembly
 - C
