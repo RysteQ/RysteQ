@@ -1,13 +1,19 @@
-## Hello !
-
-I am **RysteQ**, a hobbyist programmer that enjoys linux just a bit *too much* !
+<h1 align = "center">👋 Hi, I am RysteQ !</h1>
 
 <br>
 
-The programming languages I enjoy the most are
+Hello, I am a hobbyist programmer that enjoys linux a bit *too* much in all reality. At the moment I study Applied Informatics in my university and do random things from time to time, you can see them by yourself because they are my GitHub repositories.
 
-- x86 Assembly
+<br>
+
+The programming languages I enjoy the most are:
+
 - C
-- Java
 - C#
+- Java
 - Python
+- x86 Assembly
+
+<br><br>
+
+![](C.png) ![](C-Sharp.png) ![](Java.png) ![](Python.png) ![](x86.png)
