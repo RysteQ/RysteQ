@@ -1,15 +1,15 @@
-<h1 align = "center">👋 Hi, I am RysteQ !</h1>
+# Hi there, I am RysteQ ! 👋 
+
+Hello, I am a hobbyist programmer that enjoys linux a bit *to* much in all reality. At the moment I study for my degree in Applied Informatics at my university and do random things from time to time, you can actually see those random things of mine by yourself because a decent portion of them are my GitHub repositories !!!
 
 <br>
 
-Hello, I am a hobbyist programmer that enjoys linux a bit *too* much in all reality. At the moment I study Applied Informatics in my university and do random things from time to time, you can see them by yourself because they are my GitHub repositories.
+[![RysteQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RysteQ&custom_title=My%20GitHub%20statistics)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-The programming languages I enjoy the most are:
-
-- C
-- C#
-- Java
-- Python
-- x86 Assembly
+**About me:**
+- 🌈 I am currently a university student
+- 🐧 I just love linux
+- 💻 I love programming in C / C# / Java / Python / x86 Assembly
+- ⭐ Fun fact: I don't like unhealthy foods
