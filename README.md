@@ -13,7 +13,3 @@ The programming languages I enjoy the most are:
 - Java
 - Python
 - x86 Assembly
-
-<br><br>
-
-![](C.png) ![](C-Sharp.png) ![](Java.png) ![](Python.png) ![](x86.png)
