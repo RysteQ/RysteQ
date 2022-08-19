@@ -1,6 +1,6 @@
 # Hi there, I am RysteQ ! 👋 
 
-Hello, I am a hobbyist programmer that enjoys linux a bit *to* much in all reality. At the moment I study for my degree in Applied Informatics at my university and do random things from time to time, you can actually see those random things of mine by yourself because a decent portion of them are my GitHub repositories !!!
+Hello, I am a hobbyist programmer that enjoys linux a bit *to* much in all reality. At the moment I just do random things that come to my mind, you can actually see those random things of mine by yourself because a decent portion of them are my GitHub repositories !!!
 
 <!-- <br> -->
 
