@@ -11,9 +11,6 @@ Hello, I am a hobbyist programmer that enjoys linux a bit *to* much in all reali
 <!-- <br> -->
 
 **About me:**
-- 🌈 I am currently a university student
 - 🐧 I love linux
 - 💻 I love programming in C / C# / ~~Java~~ / Python / x86 Assembly
 - ⭐ Fun fact: I don't like unhealthy foods
-
-![](https://hit.yhype.me/github/profile?user_id=34135554)
