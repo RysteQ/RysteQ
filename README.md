@@ -12,5 +12,5 @@ Hello, I am a hobbyist programmer that enjoys linux a bit *to* much in all reali
 
 **About me:**
 - 🐧 I love linux
-- 💻 I love programming in C / C# / ~~Java~~ / Python / x86 Assembly
+- 💻 I love programming in C / C# / ~~Java~~ / PHP / Python / x86 Assembly
 - ⭐ Fun fact: I don't like unhealthy foods
